@@ -13,12 +13,9 @@ favicon: /favicon.ico
 keywords: Laomanco,建筑,设计,码农,足球,音乐,羽毛球
 
 home_nav:
-  - name: Life
+  - name: Blog
     url: /archives
     target_blank: false #不在新页面打开
-  - name: Tech
-    url: /project/
-    target_blank: true #在新页面打开
   - name: Me
     url: /about/
     target_blank: true
