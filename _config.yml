@@ -16,6 +16,9 @@ home_nav:
   - name: Blog
     url: /archives
     target_blank: false #不在新页面打开
+  - name: Tech
+    url: https://github.com/XiaoliangHuang
+    target_blank: true #在新页面打开
   - name: Me
     url: /about/
     target_blank: true
@@ -137,7 +140,7 @@ about:
     icon: icon-github
     text_key: Github
     text_value: "@xiaolianghuang"
-    text_value_url: https://github.com/forsigner
+    text_value_url: https://github.com/XiaoliangHuang
   - type: weibo
     icon: icon-weibo
     text_key: 微博
@@ -156,21 +159,3 @@ link:
     info: 落叶旋起的气息 迷失了整个黄昏风
     url: http://xiaoyingwenwen.blogbus.com/
     avatar: 
-
-project:
-  - type: personal
-    name: fexo
-    url: https://github.com/forsigner/fexo
-    intro: A minimalist design theme for hexo
-  # - type: company
-  #   name: Fexo
-  #   url: https://github.com/forsigner/fexo
-  #   intro: A minimalist design theme for hexo
-  - type: personal
-    name: beside
-    url: https://github.com/forsigner/beside
-    intro: I need you beside me
-  - type: personal
-    name: web-fontmin
-    url: https://github.com/forsigner/web-fontmin
-    intro: 字体子集化，在线提取你需要的字体
